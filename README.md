@@ -1,4 +1,5 @@
-## Hi there 👋
+## Sistemas de Informação | 4º período
+## Desenvolvimento & Tecnologia
 
 <!--
 **knkvcz/KNKVCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
